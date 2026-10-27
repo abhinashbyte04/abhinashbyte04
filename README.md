@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm AbhinashSingh (abhinashbyte04)
 
-<!--
-**abhinashbyte04/abhinashbyte04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Software Engineer** focused on constructing performant backend architectures and building responsive, data-driven web applications. I design software with an emphasis on clean code, modular infrastructure, and efficient system performance.
 
-Here are some ideas to get you started:
+## 🛠️ Core Technical Stack
+* **Languages:** Python, JavaScript, C Programming, SQL, HTML/CSS
+* **Frameworks & Tools:** Node.js, React, Git, Version Control
+* **Architectural Interests:** RESTful APIs, Database Design, System Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Engineering Philosophy
+* Prioritizing modularity and code readability over superficial complexity.
+* Constructing robust, thoroughly tested APIs and automation pipelines.
+* Actively participating in open-source development and systems integration.
+
+---
+
+### 🔗 Connect With Me
+* **LinkedIn:** [linkedin.com/in/abhinas-dev]
+* **Email:** [avicare04@gmail.com]
+
