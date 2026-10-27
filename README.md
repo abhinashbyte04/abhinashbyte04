@@ -15,6 +15,6 @@ I am a **Software Engineer** focused on constructing performant backend architec
 ---
 
 ### 🔗 Connect With Me
-* **LinkedIn:** [linkedin.com/in/abhinash-dev](https://linkedin.com)
+* **LinkedIn:** [linkedin.com/in/abhinashbyte04](https://linkedin.com)
 * **Email:** [avicare04@gmail.com](mailto:avicare04@gmail.com)
 
